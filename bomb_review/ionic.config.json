@@ -1,0 +1,7 @@
+{
+  "name": "bomb_review",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
